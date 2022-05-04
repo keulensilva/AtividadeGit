@@ -1,2 +1,2 @@
 # AtividadeGit
-Atividade Senai
+Atividade Senai para repositorio git, para edições de versões e etc...
